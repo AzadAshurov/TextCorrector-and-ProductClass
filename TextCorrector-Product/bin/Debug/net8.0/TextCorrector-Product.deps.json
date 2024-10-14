@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TextCorrector-Product/1.0.0": {
+        "runtime": {
+          "TextCorrector-Product.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextCorrector-Product/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

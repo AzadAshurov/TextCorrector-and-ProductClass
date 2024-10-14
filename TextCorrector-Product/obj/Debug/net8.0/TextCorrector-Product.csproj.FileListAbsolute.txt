@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\TextCorrector-Product\bin\Debug\net8.0\TextCorrector-Product.exe
+C:\Users\Baku\Desktop\TextCorrector-Product\bin\Debug\net8.0\TextCorrector-Product.deps.json
+C:\Users\Baku\Desktop\TextCorrector-Product\bin\Debug\net8.0\TextCorrector-Product.runtimeconfig.json
+C:\Users\Baku\Desktop\TextCorrector-Product\bin\Debug\net8.0\TextCorrector-Product.dll
+C:\Users\Baku\Desktop\TextCorrector-Product\bin\Debug\net8.0\TextCorrector-Product.pdb
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.AssemblyInfo.cs
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.dll
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\refint\TextCorrector-Product.dll
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.pdb
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\TextCorrector-Product.genruntimeconfig.cache
+C:\Users\Baku\Desktop\TextCorrector-Product\obj\Debug\net8.0\ref\TextCorrector-Product.dll
